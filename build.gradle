@@ -1,4 +1,4 @@
-group 'ru.innopolis.k_sharypov.web'
+group 'ru.innopolis.web'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
